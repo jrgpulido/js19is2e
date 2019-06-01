@@ -1,6 +1,0 @@
-Create two repos
-
-- 1 personal repo
-- 1 global repo 
-
-The second is shared with your classmates, created by the instructor
