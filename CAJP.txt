@@ -1,0 +1,32 @@
+-Hobbies
+	-videojuegos
+	-Peliculas
+	-Musica
+	-Dormir
+
+-Materias
+	-Sistemas Operativos
+	-Fundamentos de redes de datos
+	-Metodos numéricos
+	-Sistemas digitales
+
+-Profesor
+	-Paciente
+	-Pedagogico
+	-Empático
+	-Sencillez
+
+-Estudiante
+	-Dedicado
+	-Respetuoso
+	-Vocacion
+	-Equilibrado
+
+-Valores
+	-Respeto
+	-Paciencia
+	-Solidaridad
+	-Igualdad
+
+Paciencia
+Es un valor que conlleva a otros valores ligados, como lo es la tolerancia y respeto, ya que cada uno de nosotros, somos un ente distinto, con problemas, éxitos, tiempos, características propias, como ejemplo el que nosotros hagamos algo de forma eficiente y rápida, y otra persona no lo sea, no debemos enojarnos, quejarnos por que lo hace mal o lento, debemos tener el respeto, tolerancia y paciencia de esa persona en cierto tiempo lograra lo mismo o algo mejor que nosotros, por lo que como nos dimos cuenta en el ejemplo, el ser paciente lleva a alicante otros valores.	
