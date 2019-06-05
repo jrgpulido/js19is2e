@@ -1,0 +1,42 @@
+Norman Lau Heredia
+
+Hobbies:
+    1.- Redes Sociales
+    2.- Tocar Violonchelo
+    3.- Videojuegos
+    4.- Escuchar Musica
+
+Materias:
+    1.- Programación
+    2.- Inlgés
+    3.- Matemáticas
+    4.- Sistemas Operativos
+
+Profesor:
+    1.- Dedicado
+    2.- Flexible
+    3.- Tener conocimiento
+    4.- Innovador
+
+Estudiante:
+    1.- Responsable
+    2.- Respetuoso
+    3.- Interés por el curso
+    4.- Perticipativo
+
+Valores:
+    1.- Respeto 
+    2.- Honestidad
+    3.- Toleracia
+    4.- Integridad
+
+Integridad:
+    La integridad es la conservación de lo original,
+    el permanecer en un estado puro.
+    
+    El estado puro de una persona yace en la bondad y la honradez. 
+    Sin ninguna mala influencia que haya cambiado la escencia de 
+    la persona.
+    
+    Una persona integra siempre hará lo que esta considera 
+    correcto y que no dañará a otros.
