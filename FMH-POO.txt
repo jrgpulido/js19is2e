@@ -8,8 +8,8 @@ Heriberto Figueroa Michel
 -Materias
 1-programacion
 2-hematologia 
-3-historia   
-4-matematicas
+3-matematicas  
+4-historia 
 
 -Profesor
 1-comprensible
