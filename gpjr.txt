@@ -1,6 +1,17 @@
-Create two repos
+#Create two repos
+- 1 indidual repo : for code-reviewing
+- 1 global repo :  shared with your classmates, created by the instructor
 
-- 1 personal repo
-- 1 global repo 
+##First exercise
+Use your initials for naming your files, family names first
+gpjr.txt
+gpjrA.jpg
+gpjrB.jpg
 
-The second is shared with your classmates, created by the instructor
+##Second exercise
+gpjr1.txt
+gpjr1a.jpg
+gpjr1b.jpg
+
+NOT capital letters
+x GPJR.txt
